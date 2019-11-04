@@ -3,7 +3,7 @@
   <groupId>com.innovation.ai</groupId>
   <artifactId>farm_pig_depth_pro</artifactId>
   <versioning>
-    <release>1.9.7</release>
+    <release>1.9.8</release>
     <versions>
       <version>1.134</version>
       <version>1.135</version>
@@ -28,7 +28,8 @@
       <version>1.9.5</version>
       <version>1.9.6</version>
       <version>1.9.7</version>
+      <version>1.9.8</version>
     </versions>
-    <lastUpdated>20191101032352</lastUpdated>
+    <lastUpdated>20191104063620</lastUpdated>
   </versioning>
 </metadata>
